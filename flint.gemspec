@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["vanstee"]
   s.email       = ["vanstee@highgroove.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Flint is a simple Campfire client heavily inspired by the blather gem}
+  s.description = %q{Flint is a simple Campfire client heavily inspired by the blather gem}
 
   s.rubyforge_project = "flint"
 
