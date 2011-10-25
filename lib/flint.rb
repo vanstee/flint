@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'em-http'
-require 'active_support'
+require 'active_support/core_ext/hash'
 require 'json'
 
 require 'flint/client'
